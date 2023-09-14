@@ -1,8 +1,8 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Friday Night Liyin",
+	"description": "Mod where you battle Liy BFDI",
 	"restart":false,
 	"runsGlobally": false,
-	"color": [170, 0, 255],
+	"color": [187, 206, 247],
 	"discordRPC": "863222024192262205"
 }
